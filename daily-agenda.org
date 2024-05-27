@@ -1,0 +1,64 @@
+#+:title:daily-agenda
+#+:author:hengyu
+#+: creattime:<2024-05-19 Sun>
+** 2024
+*** 5-25 [0%]
+**** VERIFYING sports [%]
+- State "VERIFYING"  from "WONT-DO"    [2024-05-25 Sat 21:00]
+- State "WONT-DO"    from "TODO"       [2024-05-25 Sat 20:57]
+**** BLOCKED study [100%]
+- State "BLOCKED"    from "WONT-DO"    [2024-05-25 Sat 20:58]
+- State "WONT-DO"    from "OBE"        [2024-05-25 Sat 20:58]
+***** DONE math [50%]
+CLOSED: [2024-05-25 Sat 17:33]
+- State "DONE"       from "IN-PROGRESS" [2024-05-25 Sat 17:33]
+- State "IN-PROGRESS" from "BLOCKED"    [2024-05-25 Sat 17:00]
+- State "BLOCKED"    from "IN-PROGRESS" [2024-05-25 Sat 16:52]
+- State "IN-PROGRESS" from "TODO"       [2024-05-25 Sat 14:33]
+- [X] view course
+- [ ] review mathematic materials
+***** WONT-DO english [0%]
+CLOSED: [2024-05-25 Sat 20:57]
+- State "WONT-DO"    from "TODO"       [2024-05-25 Sat 20:57]
+- [ ] review words
+- [ ] memorize one hundred wrods
+***** WONT-DO 408 [100%]
+CLOSED: [2024-05-25 Sat 20:57]
+- [ ] os study
+*** 5-26 [40%]
+**** DONE sports
+CLOSED: [2024-05-26 Sun 08:25]
+- State "DONE"       from "TODO"       [2024-05-26 Sun 08:25]
+- [X] running
+SCHEDULED: <2024-05-26 Sun 06:0>
+**** BLOCKED english
+- State "BLOCKED"    from "IN-PROGRESS" [2024-05-26 Sun 11:02]
+- State "IN-PROGRESS" from "TODO"       [2024-05-26 Sun 08:25]
+- [X] review words
+- [ ] memorize words
+SCHEDULED: <2024-05-26 Sat 07:30>
+**** DONE math
+CLOSED: [2024-05-26 Sun 21:22]
+- State "DONE"       from "IN-PROGRESS" [2024-05-26 Sun 21:22]
+- State "IN-PROGRESS" from "BLOCKED"    [2024-05-26 Sun 19:46]
+- State "BLOCKED"    from "IN-PROGRESS" [2024-05-26 Sun 18:07]
+- State "IN-PROGRESS" from "TODO"       [2024-05-26 Sun 14:35]
+- [X] view course
+- [X] do practise
+**** BLOCKED 408
+- State "BLOCKED"    from "TODO"       [2024-05-26 Sun 21:22]
+- [ ] os study
+**** PLANNING extra
+- [ ] emacs study
+- [ ] read
+*** 5-26 [25%]
+**** DONE review words
+CLOSED: [2024-05-27 Mon 09:52]
+- State "DONE"       from "IN-PROGRESS" [2024-05-27 Mon 09:52]
+- State "IN-PROGRESS" from "TODO"       [2024-05-27 Mon 08:40]
+**** BLOCKED memorize one hundred words
+- State "BLOCKED"    from "IN-PROGRESS" [2024-05-27 Mon 10:55]
+- State "IN-PROGRESS" from "TODO"       [2024-05-27 Mon 10:19]
+**** TODO view math course
+**** TODO do math practise
+
